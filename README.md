@@ -2,7 +2,7 @@
 
 An interactive calculator that provides instant website and app cost estimates. Built as a portfolio project and designed to be easily embedded into freelance or agency websites for lead qualification.
 
-![Project Cost Estimator](./public/cost-estimate.png)
+![Project Cost Estimator demo](./public/demo.gif)
 
 ## Stack
 - React + TypeScript + Vite

@@ -36,9 +36,7 @@ export function PriceSummary({ breakdown, onReset }: PriceSummaryProps) {
 
       {requested ? (
         <p className="rounded-lg bg-emerald-50 p-3 text-sm text-emerald-700" role="status">
-          Estimate sent! In a production version this would submit the
-          selection to an API endpoint (e.g. POST /api/estimates) and notify
-          the freelancer.
+          Estimate sent!
         </p>
       ) : (
         <Button className="w-full" onClick={() => setRequested(true)}>
