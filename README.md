@@ -2,6 +2,8 @@
 
 An interactive calculator that provides instant website and app cost estimates. Built as a portfolio project and designed to be easily embedded into freelance or agency websites for lead qualification.
 
+**Live demo:** [pricing-calculator-widget-1qd4jk4a1-joannegs.vercel.app](https://pricing-calculator-widget-1qd4jk4a1-joannegs.vercel.app/)
+
 ![Project Cost Estimator demo](./public/demo.gif)
 
 ## Stack
